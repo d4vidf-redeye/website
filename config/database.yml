@@ -81,5 +81,5 @@ test:
 production:
   <<: *default
   database: redeye_website_production
-  username: redeye
+  username: deploy
   password: bronte9
